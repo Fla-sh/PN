@@ -103,6 +103,8 @@ void zad3(void) {
 	if (znaki[miesiac - 1].dzien > dzien) idx = miesiac - 2;
 	else idx = miesiac - 1;
 
+	if (idx < 0) idx = 11;
+	
 	printf("%s", znaki[idx].nazwa);
 }
 
