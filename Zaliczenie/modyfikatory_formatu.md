@@ -10,3 +10,5 @@
 whitespace: Any whitespace characters trigger a scan for zero or more whitespace characters. The number and type of whitespace characters do not need to match in either direction.
 10. `%lf` : Scan as a double floating-point number.
 11. `%Lf` : Scan as a long double floating-point number.
+
+*Wikipedia 2019*
