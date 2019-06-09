@@ -1,2 +1,2 @@
 # Wskazywanie w c typu liczby
-1. _0x_3df4
+1. **0x** 3df4
