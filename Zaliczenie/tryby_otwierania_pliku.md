@@ -6,5 +6,5 @@
   * `w+`   :  utworzenie pliku do zapisu i odczytu
   * `a+` 	  :  zapis lub odczyt na końcu istniejącego pliku
 ## dodatkowo
-  * 't' 	  :  plik tekstowy
-  * 'b' 	  :  plik binarny
+  * `t` 	  :  plik tekstowy
+  * `b` 	  :  plik binarny
