@@ -4,6 +4,10 @@
 int main()
 {
 	
+	char a[20] = "SDfsdf";
+	a = "sdf"; // nie
+	strcpy(a, "dfsfd"); //tak
+	
 	char napis1[100] = "napis1";
 	char napis2[100] = "napis2";
 
